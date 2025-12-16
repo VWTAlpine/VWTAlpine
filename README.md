@@ -3,7 +3,7 @@
 I’m a student developer learning Java and experimenting with ideas that solve real problems. I'm an MIT App Inventor convert too.
 
 ## 🚧 Currently Working On
-- **GradeVue2** with @connor-r78
+- **GradeVue2** with [[@connor-r78]]
 
 ## Interests
 - Web development
