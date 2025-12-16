@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi There!
 
-<!--
-**VWTAlpine/VWTAlpine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer who likes building useful tools and experimenting with ideas that solve real problems. 
 
-Here are some ideas to get you started:
+## 🚧 Currently Working On
+- **GradeVue2** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Web development
+- UI/UX design
+- Automation & productivity tools
+- Vibe Coding
+
+## 🛠️ Tech I Use
+- JavaScript / TypeScript  
+- React / Next.js  
+- HTML
+- Figma (for design)
+- Replit (for backends)
+- Base44 (for vibe codinG)
+
+## 📈 Goals
+- Keep improving code quality and design sense
+- Learn something new with every build
+- improve actual coding skills
+
+---
+
+> Still learning. Still shipping. Still breaking things (on purpose).
