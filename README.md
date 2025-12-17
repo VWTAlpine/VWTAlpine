@@ -16,7 +16,7 @@ I’m a student developer learning Java and experimenting with ideas that solve 
 - JavaScript / TypeScript  
 - React / Next.js  
 - HTML
-- Figma (for design)
+- Figma/Canva (for design)
 - Replit (for backends)
 - Base44 (for vibe coding)
 
