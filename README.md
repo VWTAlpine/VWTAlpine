@@ -1,6 +1,6 @@
 # 👋 Hi There!
 
-I’m a student developer learning Java and experimenting with ideas that solve real problems. I'm an MIT App Inventor convert too.
+I’m a student developer learning Java and experimenting with ideas that solve real problems. I'm also an MIT App Inventor developer.
 
 ## 🚧 Currently Working On
 - **GradeVue2** with [@connor-r78](https://github.com/connor-r78)
@@ -18,7 +18,7 @@ I’m a student developer learning Java and experimenting with ideas that solve 
 - HTML
 - Figma (for design)
 - Replit (for backends)
-- Base44 (for vibe codinG)
+- Base44 (for vibe coding)
 
 ## Goals
 - Keep improving code quality and design sense
