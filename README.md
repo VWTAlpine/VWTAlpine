@@ -3,8 +3,8 @@
 I’m a student developer learning Java and experimenting with ideas that solve real problems. I'm also an MIT App Inventor developer.
 
 ## 🚧 Currently Working On
-- **GradeVue2** with [@connor-r78](https://github.com/connor-r78)
-- [Gradevue2.replit.app]
+- **GradeVue2** 
+- [[Gradevue2.replit.app]](url)
 
 ## Interests
 - Web development
