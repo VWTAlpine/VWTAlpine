@@ -4,7 +4,6 @@ I’m a student developer learning Java and experimenting with ideas that solve 
 
 ## 🚧 Currently Working On
 - **GradeVue2** 
-- [[Gradevue2.replit.app]](url)
 
 ## Interests
 - Web development
